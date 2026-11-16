@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+modelos/*.task
+modelos/*.parcial
+*.png
+!assets/*.png
+
+mediapipe_erros.log

@@ -1,0 +1,7 @@
+Esta pasta guarda os modelos oficiais .task baixados automaticamente na primeira inferência de cada modo.
+Rosto: face_landmarker.task
+Corpo: pose_landmarker_lite.task
+Mãos/Gestos: gesture_recognizer.task
+Holístico: utiliza os três modelos.
+Os modelos NÃO estão incluídos no arquivo ZIP. É necessário acesso à internet no primeiro uso.
+As inferências subsequentes são locais e não enviam as imagens ao Google.
